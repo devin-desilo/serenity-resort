@@ -19,7 +19,7 @@ const galleryImages = [
     span: "",
   },
   {
-    src: "https://images.unsplash.com/photo-1540541338537-72aa3b4d4b6a?w=600&q=80",
+    src: "https://images.unsplash.com/photo-1578683010236-d716f9a3f461?w=600&q=80",
     alt: "Overwater bungalow",
     span: "",
   },
