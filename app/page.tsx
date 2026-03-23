@@ -251,7 +251,7 @@ export default function HomePage() {
       {/* ====== CTA BANNER ====== */}
       <section className="relative py-24 overflow-hidden">
         <Image
-          src="https://images.unsplash.com/photo-1540541338537-72aa3b4d4b6a?w=1600&q=80"
+          src="https://images.unsplash.com/photo-1529316275402-0462fcc4abd6?q=80&w=1171&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
           alt="Resort bungalow"
           fill
           className="object-cover"
