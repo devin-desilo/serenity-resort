@@ -127,7 +127,7 @@ export const rooms: Room[] = [
     bedType: "King (Four-poster)",
     featured: true,
     images: [
-      "https://images.unsplash.com/photo-1540541338537-72aa3b4d4b6a?w=1200&q=80",
+      "https://images.unsplash.com/photo-1590490360182-c33d57733427?w=1200&q=80",
       "https://images.unsplash.com/photo-1582610116397-edb318620f90?w=1200&q=80",
       "https://images.unsplash.com/photo-1590490360182-c33d57733427?w=1200&q=80",
       "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=1200&q=80",
